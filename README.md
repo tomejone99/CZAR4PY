@@ -1,6 +1,6 @@
-<h1 align="center">TshakeV2</h1>
+<h1 align="center">CZAR4PY</h1>
 
 <p align="center">
-  <strong><a href="https://t.me/zx_xx">Telegram channel</a></strong> |
-  <strong><a href="https://t.me/Mdddd">Coder</a></strong>
+  <strong><a href="https://t.me/GRU4TH3CZAR">Telegram channel</a></strong> |
+  <strong><a href="https://t.me/CHTH3CZAR">Coder</a></strong>
 </p>
